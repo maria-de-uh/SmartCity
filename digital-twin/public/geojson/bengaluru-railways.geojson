@@ -1,0 +1,10 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "name": "Railway Corridor" },
+      "geometry": { "type": "LineString", "coordinates": [[77.50, 12.97], [77.56, 12.98]] }
+    }
+  ]
+}

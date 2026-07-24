@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "name": "Cubbon Park" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[77.59, 12.98], [77.61, 12.98], [77.61, 13.00], [77.59, 13.00], [77.59, 12.98]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Lalbagh" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[77.57, 12.95], [77.58, 12.95], [77.58, 12.97], [77.57, 12.97], [77.57, 12.95]]]
+      }
+    }
+  ]
+}

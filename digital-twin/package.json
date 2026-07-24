@@ -10,9 +10,12 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@tailwindcss/vite": "^4.3.3",
+    "axios": "^1.18.1",
     "cesium": "^1.143.0",
     "react": "^19.2.7",
     "react-dom": "^19.2.7",
+    "tailwindcss": "^4.3.3",
     "vite-plugin-cesium": "^1.2.23"
   },
   "devDependencies": {

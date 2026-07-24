@@ -1,7 +1,7 @@
-import Earth from "./components/Earth";
+import Home from "./pages/Home";
 
 function App() {
-    return <Earth />;
+  return <Home />;
 }
 
 export default App;

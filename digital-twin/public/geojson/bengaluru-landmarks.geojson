@@ -1,0 +1,15 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "name": "Vidhana Soudha" },
+      "geometry": { "type": "Point", "coordinates": [77.5905, 12.9792] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Cubbon Park" },
+      "geometry": { "type": "Point", "coordinates": [77.5960, 12.9760] }
+    }
+  ]
+}

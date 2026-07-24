@@ -1,0 +1,15 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "name": "Outer Ring Road" },
+      "geometry": { "type": "LineString", "coordinates": [[77.45, 12.88], [77.55, 12.95], [77.65, 13.04]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "MG Road" },
+      "geometry": { "type": "LineString", "coordinates": [[77.61, 12.97], [77.60, 12.97]] }
+    }
+  ]
+}

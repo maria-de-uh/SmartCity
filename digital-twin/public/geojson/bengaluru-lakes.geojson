@@ -1,0 +1,13 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "name": "Bellandur Lake" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[77.66, 12.92], [77.69, 12.92], [77.69, 12.95], [77.66, 12.95], [77.66, 12.92]]]
+      }
+    }
+  ]
+}
